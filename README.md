@@ -1,0 +1,1 @@
+This project is a functional clone of the popular fashion e-commerce platform Myntra. It replicates core features of an online shopping experience, from product browsing to cart management, with a clean and responsive UI.
